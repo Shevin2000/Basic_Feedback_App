@@ -54,11 +54,7 @@ Features
      CREATE TABLE feedback (id INT AUTO_INCREMENT PRIMARY KEY, message TEXT);
      ```
 
-4. Configure the backend:
-   - Rename the `.env.example` file to `.env`.
-   - Update the `.env` file with your MySQL database connection details.
-
-5. Start the frontend and backend:
+4. Start the frontend and backend:
 
    ```bash
    cd frontend
@@ -70,7 +66,7 @@ Features
    npm run dev
    ```
 
-6. Access the app at http://localhost:5173
+5. Access the app at http://localhost:5173
 
 ## Folder Structure
 
