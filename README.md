@@ -57,12 +57,12 @@ Features
 4. Start the frontend and backend:
 
    ```bash
-   cd frontend
+   cd client
    npm run dev
    ```
 
    ```bash
-   cd backend
+   cd server
    npm run dev
    ```
 
