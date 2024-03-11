@@ -1,0 +1,26 @@
+/* FeedbackList.css */
+.feedback-list-container {
+    width: 60%;
+    margin: auto;
+  }
+  
+  .feedback-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .feedback-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .edit-mode input {
+    width: 70%;
+    margin-right: 10px;
+  }
+  
+  .view-mode span {
+    margin-right: 10px;
+  }
+  
